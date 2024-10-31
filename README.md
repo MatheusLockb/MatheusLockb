@@ -16,12 +16,7 @@
 - 💬 I'm passionate about learning new technologies and applying them in projects. I prefer hands-on, project-based learning to master new skills.
 - 🛠️ I am always open to collaborating on interesting projects and ideas.
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bestw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bestw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 
 
