@@ -51,4 +51,3 @@
 
 - Email: matheusnascimento1974@gmail.com
 
-<img src="https://raw.githubusercontent.com/bestw/bestw/output/snake.svg" alt="Snake animation" />
